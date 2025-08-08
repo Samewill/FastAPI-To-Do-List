@@ -1,0 +1,5 @@
+fastapi == 0.115.12
+pydantic == 2.11.7
+datetime
+sqlmodel == 0.0.24
+typing
